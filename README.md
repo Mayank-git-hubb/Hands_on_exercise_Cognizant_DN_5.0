@@ -13,5 +13,7 @@ Repository: https://github.com/Mayank-git-hubb/Hands_on_exercise_Cognizant_DN_5.
 
 - Week 1: Design Patterns and Principle, DSA, Junit Basic Testing, Mockito Exercises, PLSQL, SLF4J Logging
 - Week 2: Library Management, Spring Data JPA Hibernate
+- Week 3: Spring Rest using SB3
+- Week 4: Microservices for account and loan
 
 
